@@ -33,9 +33,10 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://chuotclick.github.io/gallery/"  
+  - JOURNAL: "https://chuotclick.github.io/journal/"
+  - XIUREN: "https://chuotclick.github.io/xiuren/"
+  - ABOUT: "https://chuotclick.github.io/about/"
 
 # All translation keys
 translations:
